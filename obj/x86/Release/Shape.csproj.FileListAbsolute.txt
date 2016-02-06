@@ -1,0 +1,5 @@
+E:\C# Project\chapter 20\Shape\Shape\obj\x86\Release\ResolveAssemblyReference.cache
+E:\C# Project\chapter 20\Shape\Shape\bin\Release\Shape.exe
+E:\C# Project\chapter 20\Shape\Shape\bin\Release\Shape.pdb
+E:\C# Project\chapter 20\Shape\Shape\obj\x86\Release\Shape.exe
+E:\C# Project\chapter 20\Shape\Shape\obj\x86\Release\Shape.pdb
